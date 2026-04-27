@@ -83,5 +83,6 @@ p {
 
 .imgCtnr {
     width: 100%;
+    height: 230px;
     border-radius: 20px;
 }
